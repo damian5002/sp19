@@ -1,0 +1,78 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: #F5F5DC;
+	background-image: url(abstract.jpg);
+	
+}
+
+.centerandwidth{
+	width: 848px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+
+#host{
+	font-size: 29px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:306px;
+	background-color: #F4A460;
+	margin: 0 auto;
+	background-image: url(dm5-01.png);
+	background-size: 133px;
+	
+
+
+
+}
+#text-block{
+	font-size: 2.2em;
+	color: white;
+
+}
+#info{
+	font-size: 22px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:261px;
+	background-color: #F4A460;
+	margin: 0 auto;
+}
+
+#entertainment{
+	font-size: 22px;
+	word-spacing: 2px;
+	color: white;
+	width:848px;
+	height:512px;
+	background-color: #F4A460;
+	margin: 0 auto;
+}
+
+
+#appearance{
+	font-size: 22px;
+	word-spacing: 3px;
+	color: white;
+	width:848px;
+	height:299px;
+	background-color: #F4A460;
+	margin: 0 auto;
+}
+
+#contact{
+	font-size: 24px;
+	word-spacing: 3px;
+	color: white;
+	width:848px;
+	height:235px;
+	background-color: #F4A460;
+	margin: 0 auto;
+}

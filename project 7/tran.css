@@ -1,0 +1,87 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-color:   #000000;	
+}
+
+.centerandwidth{
+	width: 848px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#title{
+    width:848px;
+	height:306px;
+	background-color: #03030C;
+	margin: 0 auto;
+	background-image: url(transfor.jpg);
+	background-size: 860px;
+	border-style: solid;
+}
+
+#trailer{
+	font-size: 22px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:600px;
+	background-color: #03030C;
+	margin: 0 auto;
+}
+
+#soundtrack{
+		font-size: 30px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:120px;
+	background-color: #03030C;
+	margin: 0 auto;
+}
+
+#gallery{
+	font-size: 22px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:810px;
+	background-color: #03030C;
+	margin: 0 auto;
+}
+
+#actors{
+	font-size: 22px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:2900px;
+	background-color: #03030C;
+	margin: 0 auto;
+}
+
+#critics{
+	font-size: 22px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:2800px;
+	background-color: #03030C;
+	margin: 0 auto;
+}
+
+#tabs{
+	font-size: 22px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:848px;
+	height:19px;
+	background-color: #03030C;
+	margin: 0 auto;
+}

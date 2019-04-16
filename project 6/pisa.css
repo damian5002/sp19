@@ -1,0 +1,72 @@
+body{
+	margin: 0 auto;
+	padding: 0 auto;
+	background-color: #F5F5DC;
+	background-image: url(piza.jpg);
+}
+
+.centerandwidth{
+	width: 444px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#tabs{
+	font-size: 23px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:428px;
+	height:140px;
+	background-color: #E68E2A;
+	margin: 0 auto;
+	background-image: url(food.png);
+	background-size: 50px;
+	border-style: solid;
+}
+
+#text-block{
+	font-size: 1.2em;
+	color: white;
+
+}
+#info{
+	font-size: 17px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	color: white;
+	width:428px;
+	height:550px;
+	background-color: #E68E2A;
+	margin: 0 auto;
+}
+
+#menu{
+	font-size: 15px;
+	word-spacing: 1px;
+	color: white;
+	width:428px;
+	height:800px;
+	background-color: #E68E2A;
+	margin: 0 auto;
+}
+
+#testimonial{
+	font-size: 14px;
+	word-spacing: 1px;
+	color: white;
+	width: 428px;
+	height: 210px;
+	background-color: #E68E2A;
+	margin: 0 auto;
+}
+
+#location{
+	font-size: 14px;
+	word-spacing: 1px;
+	color: white;
+	width: 428px;
+	height: 160px;
+	background-color: #E68E2A;
+	margin: 0 auto;
+}

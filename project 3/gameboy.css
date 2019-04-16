@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #8992AB;
+}
+.centerandwidth{
+	width: 848px;
+	margin: 0 auto;
+	text-align: center;
+}
+#main{
+	width:890px;
+	height:690px;
+	background-color: #b8b894;
+	margin:0;
+	padding:0;
+}
+h4{
+	font-size: 1em;
+	color:;
+	font-family: roman, didot, serif;
+}
+
